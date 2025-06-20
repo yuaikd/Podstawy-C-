@@ -1,1 +1,1 @@
-Wszystkie pliki są umieszczone w osobnych gałęziach
+## Wszystkie pliki są umieszczone w osobnych gałęziach
