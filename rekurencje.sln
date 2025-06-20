@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1_rekurencje", "Zadanie 1_rekurencje\Zadanie 1_rekurencje.csproj", "{34B9C5EE-64C2-4C9D-9F56-2B9D441349FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2_rekurencje", "Zadanie 2_rekurencje\Zadanie 2_rekurencje.csproj", "{613C6828-78EB-4666-8600-6DB7F97636A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B9C5EE-64C2-4C9D-9F56-2B9D441349FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B9C5EE-64C2-4C9D-9F56-2B9D441349FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B9C5EE-64C2-4C9D-9F56-2B9D441349FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B9C5EE-64C2-4C9D-9F56-2B9D441349FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613C6828-78EB-4666-8600-6DB7F97636A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613C6828-78EB-4666-8600-6DB7F97636A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613C6828-78EB-4666-8600-6DB7F97636A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613C6828-78EB-4666-8600-6DB7F97636A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7404AE7-5369-45BD-B109-DDDE232864DD}
+	EndGlobalSection
+EndGlobal
